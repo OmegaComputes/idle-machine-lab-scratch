@@ -1,0 +1,25 @@
+name: validate
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  sb3:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: npm install --no-audit --no-fund
+      - name: Rebuild projects from source and check nothing changed
+        run: |
+          python3 tools/projects.py
+          python3 tools/make_docs.py
+          git diff --exit-code -- projects docs/projects || (echo "Committed .sb3 files are out of date. Run: npm run build" && exit 1)
+      - name: Validate every .sb3 (scratch-parser, scratch-vm, behaviour)
+        run: npm test

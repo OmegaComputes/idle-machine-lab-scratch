@@ -1,0 +1,18 @@
+{
+  "name": "idle-machine-lab-scratch",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Scratch 3 starter and solution projects for The Idle Machine Lab (grades 3-5). CONCEPT / NOT FINAL.",
+  "license": "Apache-2.0",
+  "author": "Omega Compute (created by Rian L. Gabrielle)",
+  "scripts": {
+    "build": "python3 tools/projects.py && python3 tools/make_docs.py",
+    "test": "node tests/validate.js"
+  },
+  "devDependencies": {
+    "scratch-parser": "6.0.1",
+    "scratch-storage": "4.1.27",
+    "scratch-vm": "5.0.300"
+  },
+  "engines": { "node": ">=20" }
+}

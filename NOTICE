@@ -1,0 +1,28 @@
+The Idle Machine Lab: Scratch projects
+Copyright 2026 Omega Compute
+Created by Rian L. Gabrielle.
+
+This product includes software and educational material developed by Omega Compute
+(https://omegacompute.com). CONCEPT / NOT FINAL.
+
+LICENCES
+- Code (`tools/`, `tests/`, `.github/`) is licensed under the Apache License 2.0. See LICENSE.
+- Curriculum text, documentation and original art (`projects/` (.sb3 art and comments), `docs/`, README and CERTIFICATION) are licensed under
+  Creative Commons Attribution 4.0 International (CC BY 4.0). See LICENSE-CC-BY-4.0.
+  Suggested attribution: "From The Idle Machine Lab: Scratch projects, created by Rian L. Gabrielle, (c) Omega Compute, CC BY 4.0."
+
+WHAT IS NOT LICENSED
+- No trademark rights are granted. "The Idle Machine Signal", "The Omegas", "Idle Machine Lab",
+  "Pewter", the Omega mark and the names, likenesses and designs of the characters (Juno, Dex,
+  Pia, Rollo, Kip and others) are reserved by Omega Compute. The CC BY 4.0 licence covers the
+  specific drawings and text files in this repository, not the characters as a brand. Do not
+  use them to suggest endorsement or to make merchandise. Ask Omega Compute about licensing.
+
+THIRD PARTIES
+- Scratch is a project of the Scratch Foundation, in collaboration with the Lifelong
+  Kindergarten Group at the MIT Media Lab. It is available for free at https://scratch.mit.edu.
+  This repository is not an official Scratch product and is not endorsed by the Scratch
+  Foundation or MIT. The .sb3 files here contain only original art made for this project.
+- Standards are referred to by code only (for example CSTA 1B-NI-04). Standards text is not
+  reproduced here, because it is published under a different licence by its owner.
+- Dependencies are listed in the package files and keep their own licences.

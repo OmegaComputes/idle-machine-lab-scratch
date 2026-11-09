@@ -1,0 +1,110 @@
+[
+ {
+  "slug": "w02-in-think-out",
+  "week": 2,
+  "title": "In, Think, Out",
+  "summary": "Click Juno. She says hello, asks your name and answers you."
+ },
+ {
+  "slug": "w04-packets",
+  "week": 4,
+  "title": "Postcard Packets",
+  "summary": "Juno sends a message one word at a time. Dex says \"Got it!\" for every packet."
+ },
+ {
+  "slug": "w05-bug-hunt",
+  "week": 5,
+  "title": "Bug Hunt",
+  "summary": "A broken project with three bugs to find and fix."
+ },
+ {
+  "slug": "w06-packet-relay",
+  "week": 6,
+  "title": "Packet Relay",
+  "summary": "Three friends pass a message along and send back a thank-you."
+ },
+ {
+  "slug": "w07-maze-route",
+  "week": 7,
+  "title": "Robot Route",
+  "summary": "Write the steps that take Kip through the maze to the clinic."
+ },
+ {
+  "slug": "w09-loop-shapes",
+  "week": 9,
+  "title": "Loop It",
+  "summary": "Draw a square with a loop, then remix it into a hexagon."
+ },
+ {
+  "slug": "w10-night-rota",
+  "week": 10,
+  "title": "Night Rota",
+  "summary": "Four friends take turns watching the clinic server."
+ },
+ {
+  "slug": "w11-handover",
+  "week": 11,
+  "title": "Someone to Take Over",
+  "summary": "Juno counts to 5 and hands over. Dex carries on from where she stopped."
+ },
+ {
+  "slug": "w12-share-the-sum",
+  "week": 12,
+  "title": "Share the Sum",
+  "summary": "Three helpers each add two numbers. Kip adds up the total."
+ },
+ {
+  "slug": "w14-lights-out",
+  "week": 14,
+  "title": "Lights Out",
+  "summary": "Compare a hub town with a web town when the hub goes dark."
+ },
+ {
+  "slug": "w16-vote-counter",
+  "week": 16,
+  "title": "Neighbourhood Vote",
+  "summary": "Five neighbours vote. Rollo counts the votes and says which job goes first."
+ },
+ {
+  "slug": "w22-ledger-keeper",
+  "week": 22,
+  "title": "Ledger Keeper",
+  "summary": "Pia writes every trade in a shared ledger list."
+ },
+ {
+  "slug": "w20-copy-compare",
+  "week": 20,
+  "title": "Copy and Compare",
+  "summary": "Two copies of a ledger. Dex checks them line by line and finds the change."
+ },
+ {
+  "slug": "w21-check-number",
+  "week": 21,
+  "title": "Check Numbers",
+  "summary": "Work out a check number for a word, using A=1 to Z=26."
+ },
+ {
+  "slug": "w26-code-machine",
+  "week": 26,
+  "title": "Code Machine",
+  "summary": "A shift-code machine. Change the key, encode a message, then decode it."
+ },
+ {
+  "slug": "w27-password-door",
+  "week": 27,
+  "title": "Password Door",
+  "summary": "A door that opens only for the right pretend password."
+ },
+ {
+  "slug": "w29-careful-helper",
+  "week": 29,
+  "title": "Careful Helper",
+  "summary": "An SI helper that says \"Please ask a grown-up first\" when a request has private words."
+ },
+ {
+  "slug": "capstone-idle-machine-network",
+  "week": 33,
+  "title": "The Idle Machine Network",
+  "summary": "Capstone: a job board, three idle machines, a checker, a machine that goes dark and a credits screen."
+ }
+]

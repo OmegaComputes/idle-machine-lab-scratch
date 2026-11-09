@@ -1,0 +1,362 @@
+[
+ {
+  "slug": "capstone-idle-machine-network",
+  "kind": "solution",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "pass",
+  "says": 17,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "capstone-idle-machine-network",
+  "kind": "starter",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "not yet",
+  "says": 13,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w02-in-think-out",
+  "kind": "solution",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "pass",
+  "says": 3,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w02-in-think-out",
+  "kind": "starter",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "not yet",
+  "says": 1,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w04-packets",
+  "kind": "solution",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "pass",
+  "says": 6,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w04-packets",
+  "kind": "starter",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "not yet",
+  "says": 3,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w05-bug-hunt",
+  "kind": "solution",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "pass",
+  "says": 2,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w05-bug-hunt",
+  "kind": "starter",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "not yet",
+  "says": 0,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w06-packet-relay",
+  "kind": "solution",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "pass",
+  "says": 4,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w06-packet-relay",
+  "kind": "starter",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "not yet",
+  "says": 1,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w07-maze-route",
+  "kind": "solution",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "pass",
+  "says": 1,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w07-maze-route",
+  "kind": "starter",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "not yet",
+  "says": 0,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w09-loop-shapes",
+  "kind": "solution",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "pass",
+  "says": 0,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w09-loop-shapes",
+  "kind": "starter",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "not yet",
+  "says": 0,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w10-night-rota",
+  "kind": "solution",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "pass",
+  "says": 4,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w10-night-rota",
+  "kind": "starter",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "not yet",
+  "says": 1,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w11-handover",
+  "kind": "solution",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "pass",
+  "says": 12,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w11-handover",
+  "kind": "starter",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "not yet",
+  "says": 6,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w12-share-the-sum",
+  "kind": "solution",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "pass",
+  "says": 4,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w12-share-the-sum",
+  "kind": "starter",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "not yet",
+  "says": 1,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w14-lights-out",
+  "kind": "solution",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "pass",
+  "says": 2,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w14-lights-out",
+  "kind": "starter",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "not yet",
+  "says": 2,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w16-vote-counter",
+  "kind": "solution",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "pass",
+  "says": 6,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w16-vote-counter",
+  "kind": "starter",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "not yet",
+  "says": 5,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w20-copy-compare",
+  "kind": "solution",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "pass",
+  "says": 5,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w20-copy-compare",
+  "kind": "starter",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "not yet",
+  "says": 1,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w21-check-number",
+  "kind": "solution",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "pass",
+  "says": 2,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w21-check-number",
+  "kind": "starter",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "not yet",
+  "says": 1,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w22-ledger-keeper",
+  "kind": "solution",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "pass",
+  "says": 5,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w22-ledger-keeper",
+  "kind": "starter",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "not yet",
+  "says": 2,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w26-code-machine",
+  "kind": "solution",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "pass",
+  "says": 4,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w26-code-machine",
+  "kind": "starter",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "not yet",
+  "says": 2,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w27-password-door",
+  "kind": "solution",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "pass",
+  "says": 4,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w27-password-door",
+  "kind": "starter",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "not yet",
+  "says": 4,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w29-careful-helper",
+  "kind": "solution",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "pass",
+  "says": 4,
+  "missingAssets": 0,
+  "ok": true
+ },
+ {
+  "slug": "w29-careful-helper",
+  "kind": "starter",
+  "parser": "ok",
+  "vmLoad": "ok",
+  "behaviour": "not yet",
+  "says": 4,
+  "missingAssets": 0,
+  "ok": true
+ }
+]
